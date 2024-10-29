@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jenis-Jenis Penyakit Mental</string>
+    <string name="mental_name">Nama Penyakit Mental</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="detail">Type</string>
+    <string name="profile">Profile</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="profil_img">Foto Profil View</string>
+    <string name="name">Kelompok</string>
+    <string name="email">fufufu@gmail.com</string>
+</resources>
